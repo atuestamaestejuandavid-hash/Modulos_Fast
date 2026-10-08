@@ -427,3 +427,19 @@ th, td{
 .tabla_act td.descargar a:hover{
     text-decoration:underline;
 }
+
+.cuadro_color{
+    display:inline-block;
+    width:100%;
+    height:22px;
+    vertical-align:middle;
+}
+
+.color_rojo{ background:#e53935; }
+.color_celeste{ background:#29b6f6; }
+.color_amarillo{ background:#fdd835; }
+.color_morado{ background:#8e24aa; }
+
+.leyenda{
+    width:350px;
+}
